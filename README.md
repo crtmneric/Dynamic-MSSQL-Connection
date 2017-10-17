@@ -11,6 +11,6 @@ You can easily change mssql connection string and save it to the app.config file
 
  US     |
 -------------------------|
-<img src="https://i.hizliresim.com/4G0dpY.png" width="400"> | 
+<img src="https://i.hizliresim.com/4G0dpY.png" width="800"> | 
 
 
