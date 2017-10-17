@@ -1,7 +1,7 @@
-# DYNAMİC MSSQL CONNECTİON CLASS
+# Dynamic Mssql Connection Class
 You can easily change mssql connection string and save it to the app.config file whenever u want.
 
-## To Do:
+## How To
 
 1. Add class into ur project.
 2. Add a connection string and name it once to use it after dynamicly.
